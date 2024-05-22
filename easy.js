@@ -236,6 +236,19 @@
 // console.log(pCreator("abjchba"));
 
 
-import { decimalToRoman } from "./easy/48_decimalToRoman.js";
+// import { decimalToRoman } from "./easy/48_decimalToRoman.js";
 
-console.log(decimalToRoman(3999));
+// console.log(decimalToRoman(3999));
+
+// import { twoSum2 } from "./easy/49_twoSum2.js";
+
+// console.log(twoSum2([2, 7, 11, 15], 9));
+
+// import { twoSum3 } from "./easy/50_twoSum3.js";
+
+// console.log(twoSum3([1, 3, 4, 5, 7, 10, 11], 9));
+
+import { threeSum3 } from "./easy/51_threeSum.js";
+
+console.log(threeSum3([8, 2, 1, 4, 10, 5, -1, -1], 8));
+console.log(threeSum3([-1, 0, 1, 2, -1, -4], 0));
