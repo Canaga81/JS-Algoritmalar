@@ -253,6 +253,7 @@
 // console.log(threeSum3([8, 2, 1, 4, 10, 5, -1, -1], 8));
 // console.log(threeSum3([-1, 0, 1, 2, -1, -4], 0));
 
+
 import { ScaleBalancing2 } from "./easy/52_ScaleBalancing.js";
 
 console.log(ScaleBalancing2(["[5, 9]", "[1, 2, 6, 7]"]));
