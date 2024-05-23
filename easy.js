@@ -266,6 +266,17 @@
 // console.log(timeDifference("1:04", "13:05"));
 // console.log(timeDifference("15:05", "13:04"));
 
-import { pascalTriangle } from "./easy/54_pascalTriangle.js";
+// import { pascalTriangle } from "./easy/54_pascalTriangle.js";
 
-console.log(pascalTriangle(7));
+// console.log(pascalTriangle(7));
+
+// import { wovelSquare } from "./easy/55_wovelSquare.js";
+
+// console.log(wovelSquare(["abcd", "eikr", "oufj"]));
+// console.log(wovelSquare(["aqrst", "ukaei", "ffooo"]));
+// console.log(wovelSquare(["gg", "ff"]));
+
+
+// import { closestEnemy } from "./easy/56_closestEnemy.js";
+
+// console.log(closestEnemy([0, 0, 1, 0, 0, 2, 0, 2]));
