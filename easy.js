@@ -260,8 +260,12 @@
 // console.log(ScaleBalancing2(["[3, 4]", "[1, 2, 7, 7]"]));
 // console.log(ScaleBalancing2(["[13, 4]", "[1, 2, 3, 6, 14]"]));
 
-import { timeDifference } from "./easy/53_timeDifference.js";
+// import { timeDifference } from "./easy/53_timeDifference.js";
 
-console.log(timeDifference("14:00", "16:45"));
-console.log(timeDifference("1:04", "13:05"));
-console.log(timeDifference("15:05", "13:04"));
+// console.log(timeDifference("14:00", "16:45"));
+// console.log(timeDifference("1:04", "13:05"));
+// console.log(timeDifference("15:05", "13:04"));
+
+import { pascalTriangle } from "./easy/54_pascalTriangle.js";
+
+console.log(pascalTriangle(7));
