@@ -254,8 +254,14 @@
 // console.log(threeSum3([-1, 0, 1, 2, -1, -4], 0));
 
 
-import { ScaleBalancing2 } from "./easy/52_ScaleBalancing.js";
+// import { ScaleBalancing2 } from "./easy/52_ScaleBalancing.js";
 
-console.log(ScaleBalancing2(["[5, 9]", "[1, 2, 6, 7]"]));
+// console.log(ScaleBalancing2(["[5, 9]", "[1, 2, 6, 7]"]));
 // console.log(ScaleBalancing2(["[3, 4]", "[1, 2, 7, 7]"]));
 // console.log(ScaleBalancing2(["[13, 4]", "[1, 2, 3, 6, 14]"]));
+
+import { timeDifference } from "./easy/53_timeDifference.js";
+
+console.log(timeDifference("14:00", "16:45"));
+console.log(timeDifference("1:04", "13:05"));
+console.log(timeDifference("15:05", "13:04"));
